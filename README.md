@@ -1,0 +1,1 @@
+This is a text classifer written in python using Naive Bayes Classifier concept.
